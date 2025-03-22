@@ -26,5 +26,6 @@ abcjs:
 noticeOutdate:
 ---
 
+音频测试
 
-{% aplayer "Caffeine" "Jeff Williams" "/assets/2.mp3 " "autoplay" "width:70%" %}
+{% aplayer "Caffeine" "Jeff Williams" "/assets/1.mp3 " "autoplay" "width:70%" %}

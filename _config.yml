@@ -41,6 +41,9 @@ external_link:
 filename_case: 0
 render_drafts: false
 post_asset_folder: true
+marked:
+  prependRoot: true
+  postAsset: true
 relative_link: false
 future: true
 highlight:
@@ -152,6 +155,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/yxcs/yxcs.github.io
+  repo: git@github.com:yxcs/yxcs.github.io.git
   branch: master
-  token: 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
